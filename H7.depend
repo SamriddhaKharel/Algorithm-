@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682992973 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h7\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1682994184 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h7\courses_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

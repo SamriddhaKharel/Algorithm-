@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1677868376 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h3\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1677869894 c:\users\samdm\onedrive\desktop\vm\algorithm\h3\list.h
+
+1678078298 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h3\bucket_sort.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"list.h"
+

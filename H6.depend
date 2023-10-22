@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1681424389 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h6\spell_checker.c
+	<stdio.h>
+	<string.h>
+	"spell.h"
+
+1681753814 c:\users\samdm\onedrive\desktop\vm\algorithm\h6\spell.h
+
+1681843030 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h6\spell.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"spell.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1679420338 source:c:\users\samdm\onedrive\desktop\vm\algorithm\homework 4\gradual.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"heap.h"
+
+1679420465 c:\users\samdm\onedrive\desktop\vm\algorithm\homework 4\heap.h
+
+1679418807 source:c:\users\samdm\onedrive\desktop\vm\algorithm\homework 4\heap.c
+	<stdlib.h>
+	<stdio.h>
+	"heap.h"
+
+1679420338 source:c:\users\samdm\onedrive\desktop\vm\algorithm\homework 4\heap_calls.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"heap.h"
+
+1679419190 source:c:\users\samdm\onedrive\desktop\vm\algorithm\homework 4\run_test.c
+	<stdio.h>
+
+1679420338 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h4\gradual.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"heap.h"
+
+1679420465 c:\users\samdm\onedrive\desktop\vm\algorithm\h4\heap.h
+
+1679420338 source:c:\users\samdm\onedrive\desktop\vm\algorithm\h4\heap_calls.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"heap.h"
+
